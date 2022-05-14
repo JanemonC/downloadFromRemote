@@ -4,3 +4,4 @@ A-bc-b second modified
 B-bc-b changed
 A-bc-b changed
 B-bc-B changed
+A-bc-B changed same to B
