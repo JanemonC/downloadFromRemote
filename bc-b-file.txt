@@ -4,4 +4,8 @@ A-bc-b second modified
 B-bc-b changed
 A-bc-b changed
 B-bc-B changed
+<<<<<<< HEAD
 B-bc-B changed same to A
+=======
+A-bc-B changed same to B
+>>>>>>> c223e1d5f7a70a51322a77dbdbbfc06b3682aa3e
