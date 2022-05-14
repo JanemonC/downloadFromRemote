@@ -1,4 +1,8 @@
 hello 你好
 hello hello
 A-bc-b second modified
+<<<<<<< HEAD
 B-bc-b changed
+=======
+A-bc-b changed
+>>>>>>> refs/remotes/origin/bc-b
