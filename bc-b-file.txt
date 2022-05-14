@@ -1,3 +1,4 @@
 hello 你好
 hello hello
 A-bc-b second modified
+B-bc-b changed
